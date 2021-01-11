@@ -1,4 +1,4 @@
-# *test_repo_3
+# *test_repo_3*
 
 ---
 
@@ -8,4 +8,4 @@ Work with Markdown files
 
 ### FinTech Test Repo
 
-** Welcome to my test repository.
+**Welcome to my test repository.**
